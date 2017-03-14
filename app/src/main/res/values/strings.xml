@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Convert Currency</string>
+    <string name="options">Please choose a currency to convert to</string>
+    <string name="youchose">You Chose : </string>
+    <string name="enterVal">Please enter a value in USD: </string>
+    <string name="optionsFrom"> Please choose a currency to convert from</string>
+</resources>
